@@ -55,17 +55,17 @@ is a Must have.
 
 ## Example Output
 
-Using the example input above and a weekly safety buffer of $50, the planner produces results such as:
+Using the example input above, assuming the planning date is 16 October 2026 and a weekly safety buffer of $50, the planner produces results such as:
 
 - Usable weekly income: $1,200.00
 - Total weekly expenses: $905.77
 - Weekly safety buffer: $50.00
 - Money available for saving goals: $244.23
-- Minimum weekly saving required for the goals: $354.24
-- Weekly shortfall: $110.01
+- Minimum weekly saving required for the goal: $250.00
+- Weekly shortfall: $5.77
 - Plan status: Not achievable
 
-The planner then suggests possible changes such as reducing optional spending or adjusting a lower-priority goal deadline.
+The planner then suggests possible changes such as reducing optional spending or adjusting the financial plan.
 
 The user can also track actual transactions, compare planned and actual spending, and view the results in a bar chart.
 
@@ -90,3 +90,4 @@ CSV transaction files should contain:
 Date,Category,Amount,Description
 2026-10-13,Groceries,120,Weekly grocery shopping
 2026-10-14,Petrol,60,Fuel refill
+```

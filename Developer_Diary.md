@@ -3,6 +3,13 @@
 
 > Note: I did not record the exact date of every decision at the beginning of the project. The early entries are grouped by the stage/week where I remember doing the work. From Week 9 onwards, I started coding more actively and the development became much easier to track.
 
+### Evidence of earlier development
+
+Although I created the GitHub repository near the end of the project, I had already been developing the project in Google Colab much earlier.
+
+My Colab version history shows saved versions from **15 September 2026**, with later versions continuing into October. This shows that the project development started well before the GitHub repository was created.
+
+![Colab version history showing earlier development](<Screenshot 2026-10-16 142207.png>)
 ---
 
 # Before Week 9 – Planning the idea
